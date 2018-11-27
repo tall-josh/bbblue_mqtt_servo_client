@@ -1,0 +1,13 @@
+{
+	"BROKER_IP"         : "192.168.1.76",
+        "BROKER_PORT"       :  1883,
+        "TOPIC_CONTROL"     : "control",
+        "STEERING_PIN"      :  2,
+        "STEER_PWM_MIN"     :  -0.5,
+        "STEER_PWM_MAX"     : 0.5,
+        "THROTTLE_PIN"      : 8,
+        "THROT_PWM_MIN"     : 0.57,
+        "THROT_PWM_MAX"     : 0.7,
+        "PWM_PERIOD"        : 0.02
+       
+}
