@@ -7,7 +7,7 @@
         "STEER_PWM_MIN"  : -0.5,
         "STEER_PWM_MAX"  :  0.5,
         "THROTTLE_PIN"   :  8,
-        "THROT_PWM_MIN"  :  0.57,
-        "THROT_PWM_MAX"  :  0.7,
+        "THROT_PWM_MIN"  :  0.0,
+        "THROT_PWM_MAX"  :  1.0,
         "PWM_PERIOD"     :  0.02
 }
